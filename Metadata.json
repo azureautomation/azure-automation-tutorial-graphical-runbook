@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-automation-tutorial-graphical-runbook/master/AzureAutomationTutorialGraphical.graphrunbook",
+    "DownloadCount": 2113,
+    "Id": "Azure-Automation-Tutorial-7373e2e2",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 148,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-18T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This Graphical PowerShell runbook shows how to authenticate to Azure with the Run As account. \u00a0It also shows how to manage Azure resources from an Automation runbook - in this case, the runbook gets a list of the names and types of all resources in your Azure subscription.",
+    "Title": "Azure Automation Tutorial Graphical Runbook",
+    "UpdatedDate": "2016-7-1T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-automation-tutorial-graphical-runbook",
+    "UserTags": "GraphicalPS, Automation Tutorial, List Azure Resources"
+}
